@@ -1,4 +1,4 @@
-# ViCLEVR: A Visual Reasoning Dataset and Hybrid Multimodal Fusion Model for Visual Question Answering in Vietnamese
+# ReasoningViVQA: A Comprehensive Dataset and Multimodal Reasoning Framework for Enhancing Real-World Visual Reasoning in Low-Resource Vietnamese
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
@@ -7,20 +7,19 @@
 - In this work, we are also releasing a dataset for visual reasoning. The dataset is provided in folder [data/ViCLEVR](hhttps://github.com/kvt0012/ViCLEVR/tree/main/data/ViCLEVR) in this repository. More details about dataset are provided below.
 
 # News
-- August, 2024: release [the data of  **ViCLEVR**](https://github.com/kvt0012/ViCLEVR/tree/main/data/ViCLEVR)
-- July, 2024: [**ViCLEVR**](https://link.springer.com/article/10.1007/s00530-024-01394-w) was accepted by **Multimedia System 2024**.
-- October 2023: release preprint [ViCLEVR: A Visual Reasoning Dataset and Hybrid Multimodal Fusion Model for Visual Question Answering in Vietnamese](https://arxiv.org/abs/2310.18046)
+
+- Sep 2023: Finish paper
 
 <!-- <!-- *Paper*: []() -->
 #### Citation 
 ```
-@Article{Tran2023ViCLEVR,
-  title= {ViCLEVR: a visual reasoning dataset and hybrid multimodal fusion model for visual question answering in Vietnamese},
+@Article{Tran2024ReasoningViVQA,
+  title= {ReasoningViVQA: A Comprehensive Dataset and Multimodal Reasoning Framework for Enhancing Real-World Visual Reasoning in Low-Resource Vietnamese},
   author= {Khiem Vinh Tran, Hao Phu Phan, Kiet Van Nguyen,Ngan Luu Thuy Nguyen},
-  journal= {Multimedia Systems},
-  number= {4},
-	pages= {199},
-  doi= {10.1007/s00530-024-01394-w},
+  journal= {},
+  number= {},
+	pages= {},
+  doi= {},
   year={2024}
 }
 ```
